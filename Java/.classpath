@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar" sourcepath=""/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk-20/lib/jrt-fs.jar" sourcepath="/MyJDBC"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
